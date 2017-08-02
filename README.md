@@ -1,12 +1,17 @@
 [![](http://diesel.rs/assets/images/diesel_logo_stacked_black.png)](http://diesel.rs)
-Just an extension of the Diesel Demo example.
-===============================================
 
-## Made Using / Credit where it's due
+# Just an extension of the Diesel Demo example.
+
+
+## Credit where it's due
 
 [Diesel GitHub](https://github.com/diesel-rs/diesel-rs/diesel)
+
 [Original Diesel Demo](https://github.com/diesel-rs/diesel/tree/master/examples)
+
 [Rust](https://www.rust-lang.org/en-US/) - A systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety.
+
+# -:Taken from Diesel's README:-
 
 ## Code of conduct
 
